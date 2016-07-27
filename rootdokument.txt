@@ -1,1 +1,3 @@
 lokalt skapad fil
+
+Filen ändras av annan i github editorn
